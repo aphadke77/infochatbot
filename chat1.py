@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[17]:
-
-
 from tkinter import *
 
 # GUI
@@ -75,7 +69,6 @@ send = Button(root, text="Send", font=FONT_BOLD, bg=BG_GRAY,
 root.mainloop()
 
 
-# In[ ]:
 
 
 
